@@ -2579,6 +2579,7 @@ textarea::placeholder {
     	font-size: 14px;
     	line-height: 25px;
     	margin-top: 60px;
+    	padding: 0 15px;
 	}
 
 	.intro__img {
@@ -2600,16 +2601,16 @@ textarea::placeholder {
 	}
 
 	.intro__number {
-    	transform: translate(-54%, -53%);
+    	transform: translate(-72%, -53%);
 	}
 
 	.intro__descr {
-    	transform: translate(-55%, -66%);
+    	transform: translate(-70%, -66%);
 	}
 
 	.intro__descr--large {
     	font-size: 13px;
-    	transform: translate(-50%, -66%);
+    	transform: translate(-55%, -66%);
 	}
 
 
@@ -2662,7 +2663,7 @@ textarea::placeholder {
 	}
 
 	.order__services {
-    	margin-top: -90%;
+    	margin-top: -82%;
 	}
 
 
@@ -2769,7 +2770,7 @@ textarea::placeholder {
 
 	/* == Advantages == */
 	.advantages {
-    	height: 835px;
+    	height: 785px;
 	}
 
 	.adv__tittle {
@@ -2854,6 +2855,7 @@ textarea::placeholder {
 
 	.feedback {
     	margin-top: 50px;
+    	height: 475px;
 	}
 
 	.feedback__tittle {
@@ -3217,6 +3219,7 @@ textarea::placeholder {
 
 	.feedback {
     	margin-top: 50px;
+    	height: 495px;
 	}
 
 	.feedback__tittle {
