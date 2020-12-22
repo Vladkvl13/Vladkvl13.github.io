@@ -1027,7 +1027,7 @@ h1, h2, h3, h4, h5, h6 {
 	height: 49px;
 }
 
-.adv__text {
+.advantages__text {
 	color: #ffffff;
 	font-family: "Arial MT";
 	font-size: 18px;
@@ -1666,7 +1666,7 @@ textarea::placeholder {
 		font-size: 21px;
 	}
 
-	.adv__text {
+	.advantages__text {
 		font-size: 17px;
 	}
 
@@ -1970,7 +1970,7 @@ textarea::placeholder {
 		width: 46%;
 	}
 
-	.adv__text {
+	.advantages__text {
 		font-size: 12px;
 		line-height: 24px;
 	}
@@ -2170,7 +2170,7 @@ textarea::placeholder {
     	width: 45.5%;
 	}
 
-	.adv__text {
+	.advantages__text {
     	line-height: 23px;
 	}
 
@@ -2469,7 +2469,7 @@ textarea::placeholder {
     	font-size: 11px;
 	}
 
-	.adv__text {
+	.advantages__text {
     	font-size: 16px;
     	line-height: 20px;
 	}
@@ -2483,7 +2483,7 @@ textarea::placeholder {
     	width: 87%;
 	}
 
-	.tablet.adv__text {
+	.tablet.advantages__text {
 		text-align: center;
 	}
 
@@ -2799,7 +2799,7 @@ textarea::placeholder {
     	width: 100%;
 	}
 
-	.adv__text {
+	.advantages__text {
     	font-size: 14px;
     	line-height: 20px;
     	text-align: center;
