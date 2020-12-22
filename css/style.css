@@ -2554,7 +2554,7 @@ textarea::placeholder {
 	}
 }
 
-@media (max-width: 412px) {
+@media (max-width: 413px) {
 	/* == Nav == */
 	.nav__link {
 		margin-left: 330px;	
@@ -2709,30 +2709,30 @@ textarea::placeholder {
 	}
 
 	.first.works__photos {
-		min-width: 412px;
+		min-width: 413px;
 	}
 
 	.second.works__photos {
-		min-width: 412px;
+		min-width: 413px;
 	}
 
 	.third.works__photos {
-		min-width: 412px;
+		min-width: 413px;
 		height: 384px;
 	}
 
 	.fourth.works__photos {
-		min-width: 412px;
+		min-width: 413px;
 		height: 384px;
 	}
 
 	.fifth.works__photos {
-		min-width: 412px;
+		min-width: 413px;
 		height: 384px;
 	}
 
 	.sixth.works__photos {
-		min-width: 412px;
+		min-width: 413px;
 		height: 384px;
 	}
 
